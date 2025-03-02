@@ -33,4 +33,4 @@ Aqui está uma captura de tela da página web criada:
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/anapzimmer/portifolio.git
